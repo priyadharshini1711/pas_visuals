@@ -33,7 +33,7 @@
 
 ## Setup
 - clone or download the project.
-- get asses from this link
+- get asses from this link [Click Here]([https://link-url-here.org](https://drive.google.com/drive/folders/1ibBNOxrqQNmz_f7SpdOcEwoIiKNsD5Pw?usp=sharing))
 - create and virtual env using the command `virtualenv <env name>`
 - run the command inside the folder `pip install -r requirements.txt`
 - Install Visual Tools for running wheels packages
