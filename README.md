@@ -33,7 +33,7 @@
 
 ## Setup
 - clone or download the project.
-- get asses from this link [_here_]([https://pd-movie-wikipedia.netlify.app/](https://drive.google.com/drive/folders/1ibBNOxrqQNmz_f7SpdOcEwoIiKNsD5Pw?usp=sharing))
+- get asses from this link [_here_](https://drive.google.com/drive/u/1/folders/1ibBNOxrqQNmz_f7SpdOcEwoIiKNsD5Pw)
 - create and virtual env using the command `virtualenv <env name>`
 - run the command inside the folder `pip install -r requirements.txt`
 - Install Visual Tools for running wheels packages
